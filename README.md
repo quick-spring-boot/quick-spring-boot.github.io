@@ -10,7 +10,7 @@ Our organization is around the takeaway project as a goal.
 
 ## link
 
-- GitHub : https://github.com/SourceHot
+- GitHub : https://github.com/quick-spring-boot/
 
 
 
